@@ -9,8 +9,8 @@ This Bash script sends notifications to a Telegram chat every time a user logs i
   - `curl`
   - `jq`
 - **Telegram Credentials**:
-  - Bot Token
-  - Chat ID
+  - Bot Token (generated from BotFather)
+  - Chat ID (found via the /getUpdates method)
 
 ## ⚙️ Installation
 
