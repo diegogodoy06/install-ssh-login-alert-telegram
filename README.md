@@ -4,7 +4,7 @@ This Bash script sends notifications to a Telegram chat every time a user logs i
 
 ## 🔧 Requirements
 
-- **Operating System**: Linux (Debian/Ubuntu)
+- **Operating System**: Linux (Debian/Ubuntu)
 - **Dependencies**:
   - `curl`
   - `jq`
@@ -26,9 +26,9 @@ This Bash script sends notifications to a Telegram chat every time a user logs i
     chmod +x install-ssh-login-alert.sh
 
 3. Run the Script:
-  ```bash
-    ./install-ssh-login-alert.sh
-  ```
+    ```bash
+      ./install-ssh-login-alert.sh
+    ```
 
 ## 📩 Example Notification
   ```bash
