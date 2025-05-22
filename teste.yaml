@@ -1,0 +1,13 @@
+panelConfig:
+  source:
+    template: $svg # Isso é importante, garante que ele use o SVG da outra caixa de texto
+  cells:
+    meuRetangulo:
+      customAttributes:
+        any: "fill: red !important;"
+    meuCirculo:
+      customAttributes:
+        any: "fill: yellow !important; stroke: black; stroke-width: 3px;"
+    meuTexto:
+      customAttributes:
+        any: "fill: orange !important; font-weight: bold;"
