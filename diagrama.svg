@@ -1,5 +1,0 @@
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect id="meuRetangulo" x="10" y="10" width="80" height="30" fill="blue" />
-  <circle id="meuCirculo" cx="50" cy="70" r="20" fill="green" />
-  <text id="meuTexto" x="100" y="50" font-family="Verdana" font-size="20" fill="black">Olá</text>
-</svg>
