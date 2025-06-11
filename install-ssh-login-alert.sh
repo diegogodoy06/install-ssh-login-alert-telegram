@@ -139,7 +139,7 @@ else
     echo "[AVISO] Problema de sintaxe detectado em $SSHRCPATH. Verifique o arquivo."
     echo "[DEBUG] Conteúdo gerado para $SSHRCPATH:"
     cat "$SSHRCPATH"
-    # exit 1 # Considere sair se a sintaxe estiver ruim
+    # exit 1 
 fi
 
 echo "[✅] Alerta de login SSH via Telegram instalado com sucesso!"
